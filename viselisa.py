@@ -1,5 +1,5 @@
 import random
-
+print("Текст для теста")
 def hangman():
     print("\n гр. RI1-02 A. Фаррух \n")
     print("Привет! Добро пожаловать в игру ВИСЕЛИЦА")
